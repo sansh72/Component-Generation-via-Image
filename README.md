@@ -1,4 +1,4 @@
-# Figma Design to Component Code Generator
+# Figma Design to Component React Code Generator
 
 ## Overview
 
